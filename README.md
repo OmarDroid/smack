@@ -1,2 +1,3 @@
 # smack
-iOS swift chat app, Slack clone
+iOS swift chat app
+Slack clone
