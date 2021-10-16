@@ -1,2 +1,2 @@
 # smack
-iOS swift slack clone
+iOS swift Slack clone
